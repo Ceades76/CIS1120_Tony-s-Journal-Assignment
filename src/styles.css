@@ -1,0 +1,36 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.greenTea {
+  color: green;
+}
+
+.raspberryIce {
+  color: #0cbfe9;
+}
+
+.blueberryBliss {
+  color: #464196;
+}
+
+.cranberryAntioxidant {
+  color: #db5079;
+}
+
+.greatStock {
+  color: #0b6d0b;
+}
+
+.goodStock {
+  color: #398c39;
+}
+
+.badStock {
+  color: #fd6565;
+}
+
+.horribleStock {
+  color: #8b0000;
+}
