@@ -1,0 +1,30 @@
+@font-face {
+  font-family: "Emblemas One";
+  src:
+    url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.woff"),
+    url("http://wickedlysmart.com/hfhtmlcss/chapter8/journal/EmblemaOne-Regular.ttf"),
+    url("fonts/EmblemaOne-Regular.ttf");
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Emblema+One&family=Noto+Serif+Gurmukhi:wght@100..900&display=swap");
+
+h1.header {
+  font-family: "Emblemas One", sans-serif;
+  font-size: 220%; /*2.2em*/
+  color: #cc6600; /*(204,102,0)*/
+  /*text-decoration: underline;*/
+  border-bottom: thin dotted #888888;
+}
+h2 {
+  font-size: 130%; /*1.3em*/
+  font-weight: normal;
+  color: #cc6600; /*(204,102,0)*/
+  /*text-decoration: underline;*/
+  border-bottom: thin dotted #888888;
+}
+body {
+  font-family: Verdana, Geneva, Arial, sans-serif;
+}
+blockquote {
+  font-style: italic;
+}
